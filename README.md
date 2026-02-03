@@ -1,6 +1,6 @@
-# AI-Powered Code Reviewer
+# CodeGuard AI 
 
-AI-Powered Code Reviewer is a complete MERN stack project that leverages Google Generative AI to analyze and review your code. This tool automatically inspects code for quality, best practices, performance, and security while suggesting improvements and refactorings to help developers write clean and efficient code.
+CodeGuard AI  is a complete MERN stack project that leverages Google Generative AI to analyze and review your code. This tool automatically inspects code for quality, best practices, performance, and security while suggesting improvements and refactorings to help developers write clean and efficient code.
 
 ## Overview
 
